@@ -1,0 +1,6 @@
+cis-eQTL data from the eQTLGen Consortium (https://eqtlgen.org/) and the Genotype-Tissue Expression (GTEx) Portal (https://www.gtexportal.org/).
+pQTL data were obtained from the study by Ferkingstad et al. (https://www.decode.com/summarydata/).
+Vitiligo GWAS datasets were obtained from the GWAS Catalog (https://www.ebi.ac.uk/gwas/studies/GCST004785) and FinnGen_R10 (https://www.finngen.fi/).
+Microarray dataset (GSE65127) was obtained from GEO (https://www.ncbi.nlm.nih.gov/geo/).
+Single-cell RNA-seq dataset (OMIX691) is available from the Omics Database of the Chinese Academy of Sciences (OMIX) (https://ngdc.cncb.ac.cn/omix/).
+Spatial transcriptomics dataset (OMIX011562) is our previously published dataset and is stored in the Omics Database of the Chinese Academy of Sciences (OMIX) (https://ngdc.cncb.ac.cn/omix/).
